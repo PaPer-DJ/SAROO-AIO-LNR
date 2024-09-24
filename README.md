@@ -18,13 +18,9 @@ Simplemente copiar el contenido del Pack AIO LNR SAROO a el directorio Raiz de t
 Debe quedar así:
 
 E:\EMUL 
-
 E:\SAROO 
-
 E:\UTILES 
-
 E:\MENU-PRINCIPAL.bat
-
 E:\RESET.bat
 
 Y dentro de la carpeta SAROO todo tal y como viene.

@@ -49,8 +49,8 @@ Los pasos ideales son los siguientes:
 3.- Las isos deben ir cada una en su carpeta con el nombre del juego y dentro de 
 su carpeta en formato .cue + .bin o un solo .iso o no funcionarán.
 Ejemplo:
-E:\SAROO\ISO\Area 51 (USA)\Area 51 (USA).bin
-E:\SAROO\ISO\Area 51 (USA)\Area 51 (USA).cue
+- E:\SAROO\ISO\Area 51 (USA)\Area 51 (USA).bin
+- E:\SAROO\ISO\Area 51 (USA)\Area 51 (USA).cue
 
 4.- Una vez hemos preparado todos los juegos en el PC, copiamos la carpeta SAROO 
 con todos los juegos preparados en el Directorio Raiz de la tarjeta MicroSD
@@ -84,7 +84,7 @@ Enhance: martinx72, psplandy on github
 
 GUIA ESENCIAL JUEGOS PAL Vs NTSC ¿Cuales están Optimizados a 60Hz y cuales no?
 
-https://www.tumblr.com/randomisedgaming/146372446412/the-complete-european-sega-saturn-60hz-guide-to
+- https://www.tumblr.com/randomisedgaming/146372446412/the-complete-european-sega-saturn-60hz-guide-to
 
 
 GUIA MEMORIA REAL usable MicroSD / USB

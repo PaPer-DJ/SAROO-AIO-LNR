@@ -109,4 +109,4 @@ Memoria USB 256 GB = 238.4 Gb
 
 Memoria USB 512 GB = 476.8 Gb
 
-[![Github All Releases](https://img.shields.io/github/downloads/PaPer-DJ/PS2-AIO-LNR-2.0/total.svg)]()
+[![Github All Releases](https://img.shields.io/github/downloads/PaPer-DJ/SAROO-AIO-LNR/total.svg)]()

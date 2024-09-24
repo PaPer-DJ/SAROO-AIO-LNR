@@ -68,9 +68,9 @@ Especial agradecimiento para los creadores de los Firmwares para el cartucho SAR
 Base: tpunix, xvortex on github
 Enhance: martinx72, psplandy on github
 
-https://github.com/tpunix/SAROO
-https://github.com/xvortex/SAROO
-https://github.com/martinx72/SAROO_Firmware
+- https://github.com/tpunix/SAROO
+- https://github.com/xvortex/SAROO
+- https://github.com/martinx72/SAROO_Firmware
 
 Big thanks to all Sega Saturn SCENE / Community. 
 It whould be impossible to do this without it.

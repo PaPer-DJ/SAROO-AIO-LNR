@@ -27,14 +27,14 @@ Y dentro de la carpeta SAROO todo tal y como viene.
 
 Ejemplo:
 
-E:\SAROO\BIN
-E:\SAROO\ISO
-E:\SAROO\update
-E:\SAROO\mcuapp.bin
-E:\SAROO\saroocfg.txt
-E:\SAROO\SS_MEMS.BIN
-E:\SAROO\SS_SAVE.BIN
-E:\SAROO\ssfirm.bin
+- E:\SAROO\BIN
+- E:\SAROO\ISO
+- E:\SAROO\update
+- E:\SAROO\mcuapp.bin
+- E:\SAROO\saroocfg.txt
+- E:\SAROO\SS_MEMS.BIN
+- E:\SAROO\SS_SAVE.BIN
+- E:\SAROO\ssfirm.bin
 
 ==============================================
 

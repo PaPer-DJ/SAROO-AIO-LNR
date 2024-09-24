@@ -4,6 +4,8 @@ Sega Saturn SAROO AIO LNR Pack
 Manual Rápido para preparar la MicroSD del Cartucho EverDrive para Saturn SAROO by @LaNaveRETRO (PaPer_DJ)
 ----------------------------------------------
 
+📲 Si tienes Dudas o Buscas Descargas 👉 Ir a https://t.me/LaNaveRETRO
+
 Rev.02 
 - Incluidos diferentes firmwares, musica e imagenes preparadas para este AIO de LaNaveRETRO
 - SCRIPTS para cambiar el Firmware, Imagen de Fondo y Música al vuelo en la propia MicroSD

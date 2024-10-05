@@ -69,6 +69,7 @@ E:\SAROO
 
 🌐 Muchisimas gracias a toda la comunidad / SCENE de Sega Saturn sin la cual esta compilacion y 
 mods hubiesen sido imposibles.
+
 🌐 Especial agradecimiento para los creadores de los Firmwares para el cartucho SAROO:
 Base: tpunix, xvortex on github
 Enhance: martinx72, psplandy on github

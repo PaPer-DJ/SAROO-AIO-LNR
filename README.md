@@ -65,9 +65,9 @@ E:\SAROO
 
 ==============================================
 
-Muchisimas gracias a toda la comunidad / SCENE de Sega Saturn sin la cual esta compilacion y 
+🌐 Muchisimas gracias a toda la comunidad / SCENE de Sega Saturn sin la cual esta compilacion y 
 mods hubiesen sido imposibles.
-Especial agradecimiento para los creadores de los Firmwares para el cartucho SAROO:
+🌐 Especial agradecimiento para los creadores de los Firmwares para el cartucho SAROO:
 Base: tpunix, xvortex on github
 Enhance: martinx72, psplandy on github
 
@@ -75,12 +75,29 @@ Enhance: martinx72, psplandy on github
 - https://github.com/xvortex/SAROO
 - https://github.com/martinx72/SAROO_Firmware
 
-Big thanks to all Sega Saturn SCENE / Community. 
+🌐 Big thanks to all Sega Saturn SCENE / Community. 
 It whould be impossible to do this without it.
 
-Special thanks to SAROO Devs:
+🌐 Special thanks to SAROO Devs:
 Base: tpunix, xvortex on github
 Enhance: martinx72, psplandy on github
+
+
+🌐 Algunos FONDOS .gif del pack extraidos de:
+https://github.com/williamdsw/saroo-backgrounds
+https://www.youtube.com/@ZONAARCADE22
+y diferentes motores de búsqueda de Gifs 
+revisados y adaptados para el Pack.
+
+🌐 Muchas gracias a los desarrolladores de los Firmwares sin los cuales todo esto sería imposible.
+Gracias igualmente a los anónimos y/o creadores de algunos gifs utilizados en el pack.
+
+🌐 Todo el material contenido en el Pack es Open Source y de libre uso y disposición en internet.
+Comparto todo esto con ilusión para disfrute de la comunidad Retro y usuarios de SATURN.
+A sacarle el máximo provecho a nuestros cartuchos SAROO!! 
+
+↪ https://github.com/PaPer-DJ/SAROO-AIO-LNR
+
 
 ==============================================
 

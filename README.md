@@ -88,8 +88,9 @@ Enhance: martinx72, psplandy on github
 🌐 Algunos FONDOS .gif del pack extraidos de:
 - https://github.com/williamdsw/saroo-backgrounds
 - https://www.youtube.com/@ZONAARCADE22
-y diferentes motores de búsqueda de Gifs 
-revisados y adaptados para el Pack.
+
+y de diferentes motores de búsqueda de Gifs 
+para modificarlos y adaptados al Pack.
 
 🌐 Muchas gracias a los desarrolladores de los Firmwares sin los cuales todo esto sería imposible.
 Gracias igualmente a los anónimos y/o creadores de algunos gifs utilizados en el pack.

@@ -90,7 +90,7 @@ Enhance: martinx72, psplandy on github
 - https://www.youtube.com/@ZONAARCADE22
 
 y de diferentes motores de búsqueda de Gifs 
-para modificarlos y adaptados al Pack.
+para modificarlos y adaptarlos al Pack.
 
 🌐 Muchas gracias a los desarrolladores de los Firmwares sin los cuales todo esto sería imposible.
 Gracias igualmente a los anónimos y/o creadores de algunos gifs utilizados en el pack.
